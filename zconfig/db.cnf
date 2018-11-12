@@ -1,0 +1,7 @@
+[client]
+database = dbseed01
+host = localhost
+port = 3306
+user = dbseedu01
+password = dbseedp01
+default-character-set = utf8
